@@ -1,7 +1,7 @@
 // practice-1
 
 //1
-const numberOfFilms = +prompt('Скільки фільмів ви вже переглянуди?', '');
+const numberOfFilms = +prompt('Скільки фільмів ви вже переглянули?', '');
 
 
 //2
