@@ -1,4 +1,4 @@
-// practice1
+// practice-1
 
 //1
 const numberOfFilms = +prompt('Скільки фільмів ви вже переглянуди?', '');
@@ -21,6 +21,5 @@ let a = prompt('Один із останіх фільмів?', ''),
 
 personalMovieDB.movies[a] = b;
 personalMovieDB.movies[c] = d;
-
 
 console.log(personalMovieDB);
